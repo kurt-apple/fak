@@ -2,6 +2,13 @@
 
 A keyboard firmware for the CH55x series.
 
+## Fixer-OTG Firmware
+`python fak.py compile -kb fixer-otg`
+
+plug in board while holding down BOOT key
+
+`python fak.py flash -kb fixer-otg`
+
 🥳 **Come join our [Discord server](https://discord.gg/4Ev8GFZNR2)!**
 
 <a href="https://www.buymeacoffee.com/semickolon"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=semickolon&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
